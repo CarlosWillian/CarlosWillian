@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img src="https://github.com/CarlosWillian/CarlosWillian/blob/main/jetpacktocat.png" alt="cover" title="Carlos Willian" border="0">
+    <img src="https://github.com/CarlosWillian/CarlosWillian/blob/main/carlos-willian.png" alt="cover" title="Carlos Willian" border="0">
   </a>
 </p>
 
